@@ -2,8 +2,16 @@
 /.project
 /ACT81.class
 /LICENSE
+<<<<<<< HEAD
 /README.md
 /github/
 /holaMundo
 /prueba/
 /Prueba
+=======
+/Prueba
+/README.md
+/github/
+/holaMundo
+/prueba/
+>>>>>>> branch 'main' of https://github.com/matpassan/prueba
